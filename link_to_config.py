@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import base64
 from urllib.parse import parse_qs
 import argparse
