@@ -1,6 +1,6 @@
 # SSR Client in Docker
 
-![](https://github.com/gwy15/ssr-client-docker/workflows/main/badge.svg)
+[![](https://github.com/gwy15/ssr-client-docker/workflows/Build%20docker/badge.svg)](https://github.com/gwy15/ssr-client-docker/actions)
 
 ## Configuration
 

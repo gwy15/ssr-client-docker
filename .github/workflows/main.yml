@@ -10,6 +10,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build docker now
+    - name: Build docker image
       run: docker build .
 
