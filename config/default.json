@@ -1,0 +1,12 @@
+{
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "timeout": 30,
+    "dns_ipv6": false,
+    "server": "172.105.208.134",
+    "server_port": 8099,
+    "password": "eIW0Dnk69454e6nSwuspv9DmS201tQ0D",
+    "method": "aes-256-cfb",
+    "protocol": "origin",
+    "obfs": "plain"
+}
